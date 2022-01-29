@@ -1,0 +1,11 @@
+{
+  "assets": [
+    { "id": 1, "type": "PC" },
+    { "id": 2, "type": "Imprimante" },
+    { "id": 3, "type": "Scanner" }
+  ],
+  "model": [
+    { "id": 1, "model": "Dell", "assetId": 1 },
+    { "id": 2, "model": "HP", "assetId": 1 }
+  ]
+}
